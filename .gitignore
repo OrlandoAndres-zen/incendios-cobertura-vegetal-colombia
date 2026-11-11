@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+originales/
+*.xlsx
+*.xls
+incendios_consolidados_auditados.csv
