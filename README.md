@@ -42,4 +42,4 @@ Python 3 con pandas, NumPy, Matplotlib, GeoPandas y openpyxl (análisis de tama�
 
 ## Licencia
 
-[Por definir. Se aplica solo al código; los datos del IDEAM tienen sus propias condiciones.]
+Licencia MIT (ver el archivo LICENSE). Se aplica solo al código; los datos del IDEAM tienen sus propias condiciones.
